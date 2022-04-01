@@ -1,0 +1,21 @@
+.filter-section{
+  display: grid;
+  gap:1.2rem;
+  width: 561px;  
+}
+.filter-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  font: inherit;
+  
+}
+.filter-head h4 {
+  font-size: 1.3rem;
+}
+.filter-head select {
+  padding: 0.5rem 1rem;
+  background-color: rgb(241, 231, 195);
+  font-size: 1rem;
+}

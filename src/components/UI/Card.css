@@ -1,0 +1,11 @@
+.expense-wrapper{
+    margin:auto;
+    min-width: fit-content;
+    width:48vw;
+    padding: 1rem ;
+    background-color: rgb(31, 27, 27);
+    border-radius:15px ;
+    display: grid;
+    place-items: center;
+    
+  }

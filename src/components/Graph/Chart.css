@@ -1,0 +1,8 @@
+.chart-body {
+  padding: 1.5rem;
+  border-radius: 8px;
+  display: flex;
+  background-color: rgb(241, 231, 195);
+  gap: 1.5rem;
+  width:100%;
+}
